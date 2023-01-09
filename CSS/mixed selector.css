@@ -1,0 +1,38 @@
+.c1{
+    background-color: burlywood;
+    text-align: center
+    ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 100%;
+    text-decoration: underline wavy rgb(200, 11, 61) 
+     ;
+}
+
+p{
+    color: rgb(39, 40, 25) ;
+    margin: 5px 3px 10px 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.b1{
+
+   
+    background-color: lightblue;
+
+
+border-radius: 10px;
+border: 15px solid greenyellow;
+padding: 10px;
+   
+    
+}
+#header{
+    height: 300px;
+    color: blueviolet;
+    text-align: center;
+    background-image: url('../img/plants-with-big-flowers-4138211-hero-b10becb169064cc4b3c7967adc1b22e1.jpg');
+    background-size: cover;
+/* background-size: contain; */
+/* background-repeat: no-repeat; */
+background-blend-mode:  y2;
+}
